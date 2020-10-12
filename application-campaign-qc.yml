@@ -1,0 +1,97 @@
+campaign:
+  endTime: 1699598635043  #millisecond
+  presentsList:
+    baemin50k:
+      campaignCode: baemin50k
+      hashKey: MIGRWHUUUD8JKLK5UDNORH88AP6B9P6E
+      title: BAEMIN
+      valueDescription: -50.000đ
+      ruleDescription: Hoá đơn từ 51.000đ
+      imageUrl: img/promotion/sharelink_v2/active_2_3@3x.png
+      inactiveImageUrl: img/promotion/sharelink_v2/inactive_2_3@3x.png
+      priority: 1
+      maximum: 9824
+      type: 2
+
+    LAZADA:
+      campaignCode: LAZADA
+      title: Lazada
+      hashKey:
+      valueDescription: -25.000đ
+      ruleDescription: Hoá đơn từ 50.000đ
+      imageUrl: img/promotion/sharelink_v2/active_2_2@3x.png
+      inactiveImageUrl: img/promotion/sharelink_v2/active_2_2@3x.png
+      priority: 2
+      maximum: 10000
+      type: 3
+      ctaButton: https://qceris.zalopay.vn/sharelink/web/voucher
+    baemin15ki:
+      campaignCode: baemin15ki
+      hashKey: UKNLZGFG98HBA6SSSGL19CPP6B9D5OM7
+      title: BAEMIN
+      valueDescription: -15.000đ
+      ruleDescription: Hoá đơn từ 30.000đ
+      imageUrl: img/promotion/sharelink_v2/active_2_3@3x.png
+      inactiveImageUrl: img/promotion/sharelink_v2/inactive_2_3@3x.png
+      priority: 3
+      maximum: 79073
+    BDM_200908_143_04:
+      campaignCode: BDM_200908_143_04
+      hashKey: 77R1XLG7B2LWQ9K7875VRVRHLR3IARH5
+      title: Al Fresco
+      valueDescription: -30.000đ
+      ruleDescription: Hoá đơn từ 60.000đ
+      imageUrl: img/promotion/sharelink_v2/active_2_4@3x.png
+      inactiveImageUrl: img/promotion/sharelink_v2/inactive_2_4@3x.png
+      priority: 4
+      maximum: 29473
+    aeonciti12333:
+      campaignCode: aeonciti12333
+      hashKey: B0ZUV8GUFPQ58D4YW35OVNQP5HRKBH4L
+      title: Citimart
+      valueDescription: -20.000đ
+      ruleDescription: Hoá đơn từ 40.000đ
+      imageUrl: img/promotion/sharelink_v2/active_2_5@3x.png
+      inactiveImageUrl: img/promotion/sharelink_v2/inactive_2_5@3x.png
+      priority: 5
+      maximum: 24561
+    tnlegend123:
+      campaignCode: tnlegend123
+      hashKey: R562CLF09QB66REWE8CWOPEDXV355551
+      title: Trung Nguyên Legend
+      valueDescription: -30.000đ
+      ruleDescription: Hoá đơn từ 60.000đ
+      imageUrl: img/promotion/sharelink_v2/active_2_6@3x.png
+      inactiveImageUrl: img/promotion/sharelink_v2/inactive_2_6@3x.png
+      priority: 6
+      maximum: 29473
+
+  shareContent:
+    baemin50k:
+      title: "Tặng bạn voucher BAEMIN 50.000đ"
+      description: "Giảm tối đa 50.000đ khi thanh toán BAEMIN trên ứng dụng ZaloPay. NHẬN NGAY!"
+      banner: img/promotion/sharelink_v2/banner_2_1@3x.jpg
+    LAZADA:
+      title: "Tặng bạn voucher Lazada 25.000đ"
+      description: "Giảm 50% tối đa 25.000đ khi thanh toán bằng ZaloPay trên Lazada. NHẬN NGAY!"
+      banner: img/promotion/sharelink_v2/banner_2_2@3x.jpg
+    baemin15ki:
+      title: "Tặng bạn voucher BAEMIN 15.000đ"
+      description: "Giảm 50% tối đa 15.000đ khi thanh toán BAEMIN trên ứng dụng ZaloPay. NHẬN NGAY!"
+      banner: img/promotion/sharelink_v2/banner_2_3@3x.jpg
+    BDM_200908_143_04:
+      title: "Tặng bạn voucher Al Fresco's 30.000đ"
+      description: "Giảm 50% tối đa 30.000đ khi thanh toán Al Fresco trên ứng dụng ZaloPay. NHẬN NGAY!"
+      banner: img/promotion/sharelink_v2/banner_2_4@3x.jpg
+    aeonciti12333:
+      title: "Tặng bạn voucher Aeon Citimart 20.000đ"
+      description: "Giảm 50% tối đa 20.000đ khi thanh toán Aeon Citimart trên ứng dụng ZaloPay. NHẬN NGAY!"
+      banner: img/promotion/sharelink_v2/banner_2_5@3x.jpg
+    tnlegend123:
+      title: "Tặng bạn voucher Trung Nguyên Legend 30.000đ"
+      description: "Giảm 50% tối đa 30.000đ khi thanh toán Trung Nguyên Legend trên ứng dụng ZaloPay. NHẬN NGAY!"
+      banner: img/promotion/sharelink_v2/banner_2_6@3x.jpg
+    COMMON:
+      title: "Siêu bão voucher GIẢM 50%"
+      description: "Tặng bạn loạt voucher giảm ngay 50% từ chương trình siêu bão voucher của ZaloPay. NHẬN NGAY!"
+      banner: img/promotion/sharelink_v2/banner_2@3x.jpg
